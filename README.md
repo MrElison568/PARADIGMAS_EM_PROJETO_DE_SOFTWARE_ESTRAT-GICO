@@ -1,4 +1,4 @@
-# PARADIGMAS_EM_PROJETO_DE_SOFTWARE_ESTRAT-GICO
+#  Gerenciamento de Configuração no Desenvolvimento de Software
 
 A utilização de uma ferramenta de gestão de configuração no desenvolvimento de software traz inúmeros benefícios, tornando o processo mais eficiente e confiável. Algumas das vantagens mais notáveis incluem:
 
